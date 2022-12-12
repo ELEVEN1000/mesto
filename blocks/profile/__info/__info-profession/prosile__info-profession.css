@@ -1,0 +1,19 @@
+.profile__info-profession {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+
+}
+@media screen and (max-width: 880px) {
+  .profile__info-profession {
+    padding-top: 14px;
+    max-width: 282px;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 auto;
+  }
+}
