@@ -9,6 +9,6 @@
   right: 0;
   bottom: 0;
   overflow-y: hidden;
-  visibility: hidden;
+  display: none;
   transition: visibility 0s, opacity 0.3s linear;
 }
