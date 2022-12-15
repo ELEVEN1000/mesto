@@ -41,3 +41,4 @@ profileButtonEdit.addEventListener("click", (event) => {
 profileButtonEdit.addEventListener("click", popupOpened);
 
 formElement.addEventListener("submit", formSubmitHandler);
+// А я хочу, а я хочу опять.... по крышам бееегать голубей гонять...
